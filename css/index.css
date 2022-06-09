@@ -1,0 +1,13 @@
+body {
+    background-color: #282837;
+    font-size: 1.2rem;
+}
+
+.bg-dark {
+    background-color: #1e1e27 !important;
+}
+
+ul * {
+    color: #f2f2f8 !important;
+}
+
